@@ -1,0 +1,6 @@
+n input
+a = 0
+:label
+output a
+i = i + 1
+if a < n then goto :label
